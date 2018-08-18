@@ -8,6 +8,6 @@ public class New {
         int testTwo;
         testTwo =(2 + testVar) * 3 ;
         System.out.println(testTwo);
-        System.out.println(testTwo);
+        
     }
 }
