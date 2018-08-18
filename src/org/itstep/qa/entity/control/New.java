@@ -9,5 +9,8 @@ public class TestOne {
         testTwo =(2 + testVar) * 3 ;
         System.out.println(testTwo);
 
+        System.out.println(testTwo);
+
+        System.out.println(testTwo);
     }
 }
