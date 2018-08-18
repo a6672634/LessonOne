@@ -12,5 +12,7 @@ public class TestOne {
         System.out.println(testTwo);
 
         System.out.println(testTwo);
+
+        System.out.println(testTwo);
     }
 }
